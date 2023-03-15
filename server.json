@@ -1,9 +1,15 @@
 {
  "data": [
   {
-    "comment": "广东 深圳 电信",
-    "ip": "177040122.xyz",
-    "port": 11451,
+    "comment": "美国",
+    "ip": "joinsg.net",
+    "port": 11453,
+    "flag": "us"
+  },
+  {
+    "comment": "江苏 徐州 电信",
+    "ip": "www.enptysun.ga",
+    "port": 11556,
     "flag": "cn"
   },
   {
@@ -24,16 +30,46 @@
     "port": 11451,
     "flag": "cn"
   },
-  {
-    "comment": "江苏 徐州 电信",
-    "ip": "www.enptysun.ga",
-    "port": 11556,
+ {
+    "comment": "广东 广州 百度云",
+    "ip": "106.13.230.72",
+    "port": 11451,
+    "flag": "cn"
+  },
+ {
+    "comment": "广东 广州 腾讯云",
+    "ip": "159.75.87.168",
+    "port": 11451,
+    "flag": "cn"
+  },
+ {
+    "comment": "北京 腾讯云",
+    "ip": "81.70.7.30",
+    "port": 11451,
+    "flag": "cn"
+  },
+ {
+    "comment": "上海 腾讯云",
+    "ip": "124.221.52.85",
+    "port": 11451,
     "flag": "cn"
   },
   {
-    "comment": "美国",
-    "ip": "joinsg.net",
-    "port": 11453,
+    "comment": "上海 腾讯云",
+    "ip": "124.223.203.187",
+    "port": 11451,
+    "flag": "cn"
+  },
+ {
+    "comment": "四川 成都 腾讯云",
+    "ip": "139.155.72.235",
+    "port": 11451,
+    "flag": "cn"
+  },
+  {
+    "comment": "四川 成都 联通",
+    "ip": "119.6.232.193",
+    "port": 11451,
     "flag": "cn"
   }
  ]
