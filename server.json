@@ -1,12 +1,6 @@
 {
  "data": [
   {
-    "comment": "江苏 徐州 电信",
-    "ip": "www.enptysun.ga",
-    "port": 11556,
-    "flag": "cn"
-  },
-  {
     "comment": "河南 郑州 联通",
     "ip": "srv.jaxlewis.top",
     "port": 11451,
@@ -38,12 +32,6 @@
   },
   {
     "comment": "上海 腾讯云",
-    "ip": "101.43.82.249",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "上海 腾讯云",
     "ip": "42.192.8.201",
     "port": 11451,
     "flag": "cn"
@@ -51,6 +39,12 @@
   {
     "comment": "四川 眉山 联通",
     "ip": "112.192.20.196",
+    "port": 11451,
+    "flag": "cn"
+  },
+  {
+    "comment": "北京 华为云",
+    "ip": "120.46.181.251",
     "port": 11451,
     "flag": "cn"
   },
