@@ -1,59 +1,56 @@
-#{
- "data":
- [
-  {
-    "comment": "河南 郑州 联通",
-    "ip": "srv.jaxlewis.top",
-    "port": 11451,
-    "flag": "cn"
+"data": [
+{
+  "comment": "河南 郑州 联通",
+  "ip": "srv.jaxlewis.top",
+  "port": 11451,
+  "flag": "cn"
+},
+{
+  "comment": "四川 眉山 联通",
+  "ip": "112.192.20.196",
+  "port": 11451,
+  "flag": "cn"
+},
+{
+  "comment": "浙江 嘉兴 电信",
+  "ip": "yordon.cn",
+  "port": 11451,
+  "flag": "cn"
+},
+{
+  "comment": "广东 深圳 电信",
+  "ip": "aya0.top",
+  "port": 11451,
+  "flag": "cn"
   },
-  {
-    "comment": "四川 眉山 联通",
-    "ip": "112.192.20.196",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "浙江 嘉兴 电信",
-    "ip": "yordon.cn",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "广东 深圳 电信",
-    "ip": "aya0.top",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "广东 深圳 电信 2",
-    "ip": "177040122.xyz",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "广东 广州 腾讯云",
-    "ip": "119.91.238.155",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "香港 腾讯云",
-    "ip": "43.154.120.150",
-    "port": 11451,
-    "flag": "hk"
-  },
-  {
-    "comment": "台湾 新北 中華電信",
-    "ip": "122.116.141.58",
-    "port": 11451,
-    "flag": "tw"
-  },
-  {
-    "comment": "美国",
-    "ip": "joinsg.net",
-    "port": 11453,
-    "flag": "us"
-  }
- ]
-#}
+{
+  "comment": "广东 深圳 电信 2",
+  "ip": "177040122.xyz",
+  "port": 11451,
+  "flag": "cn"
+},
+{
+  "comment": "广东 广州 腾讯云",
+  "ip": "119.91.238.155",
+  "port": 11451,
+  "flag": "cn"
+},
+{
+  "comment": "香港 腾讯云",
+  "ip": "43.154.120.150",
+  "port": 11451,
+  "flag": "hk"
+},
+{
+  "comment": "台湾 新北 中華電信",
+  "ip": "122.116.141.58",
+  "port": 11451,
+  "flag": "tw"
+},
+{
+  "comment": "美国",
+  "ip": "joinsg.net",
+  "port": 11453,
+  "flag": "us"
+}
+]
