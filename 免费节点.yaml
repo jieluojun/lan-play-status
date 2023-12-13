@@ -9,7 +9,7 @@ proxies:
     network: ws
     ws-path: /
     ws-headers:
-      Host: mmsc.vnet.mobi
+      Host: 混淆
 
   - name: "美国|ws"
     type: vmess
@@ -21,4 +21,4 @@ proxies:
     network: ws
     ws-path: /
     ws-headers:
-      Host: mmsc.vnet.mobi
+      Host: 混淆
