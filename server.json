@@ -1,6 +1,12 @@
 {
- "ver": 20230626,
+ "ver": 20240130,
  "data": [
+  {
+    "comment": "浙江 嘉兴 电信",
+    "ip": "yordon.cn",
+    "port": 11451,
+    "flag": "cn"
+  },  
   {
     "comment": "河南 郑州 联通",
     "ip": "srv.jaxlewis.top",
@@ -8,20 +14,8 @@
     "flag": "cn"
   },
   {
-    "comment": "四川 眉山 联通",
-    "ip": "112.192.20.196",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "浙江 嘉兴 电信",
-    "ip": "yordon.cn",
-    "port": 11451,
-    "flag": "cn"
-  },
-  {
-    "comment": "广东 深圳 电信",
-    "ip": "177040122.xyz",
+    "comment": "广东 广州 华为云",
+    "ip": "124.71.62.96",
     "port": 11451,
     "flag": "cn"
   },
